@@ -1,4 +1,4 @@
-# Portfolio SISR — Sébastien Bou Malhab
+# Portfolio SISR - Sébastien Bou Malhab
 <h1 align="center">Enchanté, BouMalhab Sébastien.</h1>
 
 <p align="center">
