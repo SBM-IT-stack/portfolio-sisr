@@ -1,46 +1,39 @@
-# portfolio-sisr
-Portfolio technique SISR : systèmes, réseaux, support informatique et cybersécurité défensive.
-# Portfolio SISR — Sébastien Bou Malhab
+# Portfolio SISR - Sébastien Bou Malhab
+<h1 align="center">Enchanté, BouMalhab Sébastien.</h1>
 
-## Objectif
+<p align="center">
+  Passionné de <b>Linux</b> et de <b>développement web</b>, curieux de nature, je touche à beaucoup de choses,
+  du script bash au CRUD PHP en passant par la sécurité réseau.
+  <br>
+  En recherche d'une <b>alternance en informatique</b> (rentrée [2026]) — (Métropole Lyonnaise)
+</p>
 
-Ce portfolio présente ma progression en informatique dans le cadre de ma recherche d’alternance en systèmes, réseaux et sécurité.
-
-Je recherche une alternance orientée :
-
-- support informatique ;
-- administration systèmes et réseaux ;
-- gestion de parc ;
-- diagnostic d’incidents ;
-- documentation technique ;
-- cybersécurité défensive.
-
-Ce dépôt sert aussi à montrer que je possède des bases proches d’un niveau Bac+2 informatique en construction : Windows, Linux, réseau local, diagnostic, sécurité de premier niveau, scripts simples et documentation.
+<p align="center">
+  <a href="mailto:scbm94@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/sébastien-boumalhab/">💼 LinkedIn</a> •
+</p>
 
 ---
 
-## Profil
+### Stack & outils
 
-Actuellement en préparation d’un parcours informatique orienté systèmes, réseaux et cybersécurité, je souhaite développer mes compétences sur le terrain au sein d’une équipe IT.
+**Systèmes**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Je suis particulièrement intéressé par les missions de support utilisateurs, préparation de postes, gestion de tickets, comptes utilisateurs, réseau local, supervision, documentation technique et sécurisation progressive des environnements.
+**Développement**
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
----
+**Réseau & sécurité**
+![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure%20Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
 
-## Compétences en cours d’acquisition
-
-- Windows et Linux / Ubuntu ;
-- installation, configuration et dépannage de premier niveau ;
-- notions réseaux : IP, DNS, DHCP, Wi-Fi, LAN ;
-- diagnostic de connectivité ;
-- support utilisateur et analyse des besoins ;
-- documentation technique ;
-- gestion de tickets ;
-- sensibilisation cybersécurité : mots de passe, phishing, sauvegardes, mises à jour ;
-- notions RGPD et protection des données ;
-- bases Bash, PowerShell et Python.
-
----
 
 ## Contenu du portfolio
 
@@ -50,13 +43,30 @@ Je suis particulièrement intéressé par les missions de support utilisateurs, 
 | `scripts/powershell` | Scripts PowerShell simples pour environnement Windows |
 | `fiches/diagnostic-reseau-local.md` | Procédure de diagnostic réseau local |
 | `fiches/securite-poste-utilisateur.md` | Checklist de sécurisation d’un poste utilisateur |
-| `preuves/progression-linux-windows-reseau.md` | Synthèse de progression technique |
-| `candidatures/suivi-candidatures-alternance.md` | Suivi des candidatures support / systèmes / réseaux |
+| `dotfiles` | Ma configuration Linux/terminal personnalisée, prête à installer | Bash |
+| `gestionnaire-taches-php` | Petite app CRUD full-stack : tâches, base de données, authentification | PHP, MySQL |
+| `port-scanner` | Scanner de ports réseau en ligne de commande | Python |
+| `tryhackme-writeups` | Write-ups détaillés de machines résolues (reconnaissance → exploitation) | Sécurité |
+| `domotique-dashboard` | Tableau de bord web de simulation domotique (capteurs, interrupteurs) | HTML/CSS/JS |
 
----
+
 
 ## Objectif professionnel
 
 Mon objectif est d’intégrer une équipe informatique en alternance afin de développer des compétences solides en systèmes, réseaux et sécurité.
 
 Je souhaite commencer par des missions terrain : support informatique, gestion de parc, préparation de postes, comptes utilisateurs, documentation et diagnostic réseau, puis évoluer progressivement vers l’administration d’infrastructures sécurisées.
+
+Je souhaite commencer par des missions terrain : support informatique, gestion de parc, préparation de postes, comptes utilisateurs, documentation et diagnostic réseau, puis évoluer progressivement vers l’administration d’infrastructures sécurisées.
+
+
+---
+
+### Activité
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SBM-IT-stack&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SBM-IT-stack&theme=tokyonight)
+
+---
+
+<p align="center"><i>Disponible pour une alternance dès maintenant, n'hésitez pas à me contacter.</i></p>
