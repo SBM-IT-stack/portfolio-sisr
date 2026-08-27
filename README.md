@@ -44,7 +44,6 @@
 | `fiches/diagnostic-reseau-local.md` | Procédure de diagnostic réseau local |
 | `fiches/securite-poste-utilisateur.md` | Checklist de sécurisation d’un poste utilisateur |
 | `dotfiles(LIEN_REPO)` | Ma configuration Linux/terminal personnalisée, prête à installer | Bash |
-| `backup-script(LIEN_REPO)` | Script de sauvegarde automatisée avec rotation et logs | Bash, cron |
 | `gestionnaire-taches-php(LIEN_REPO)` | Petite app CRUD full-stack : tâches, base de données, authentification | PHP, MySQL |
 | `port-scanner(LIEN_REPO)` | Scanner de ports réseau en ligne de commande | Python |
 | `tryhackme-writeups(LIEN_REPO)` | Write-ups détaillés de machines résolues (reconnaissance → exploitation) | Sécurité |
