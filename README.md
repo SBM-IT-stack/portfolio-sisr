@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:scbm94@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/sébastien-boumalhab/">💼 LinkedIn</a> •
-  <a href="./Documents/cv.pdf">📄 CV</a>
+  <a href="https://github.com/SBM-IT-stack/portfolio-sisr/blob/Documents/cv.pdf">📄 CV</a>
 </p>
 
 ---
