@@ -65,8 +65,7 @@ Je souhaite commencer par des missions terrain : support informatique, gestion d
 
 ### Activité
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=SBM-IT-stack&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SBM-IT-stack&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SBM-IT-stack&theme=tokyonight&locale=fr)](https://git.io/streak-stats)
 
 ---
 
