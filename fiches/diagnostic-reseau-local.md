@@ -1,4 +1,4 @@
-# Fiche technique — Diagnostic réseau local
+# Fiche technique : diagnostic réseau local
 
 ## Objectif
 

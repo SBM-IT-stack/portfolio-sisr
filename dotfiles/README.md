@@ -10,10 +10,10 @@ de mon environnement au quotidien. Et non je n'utilise pas Arch.
 
 ## Contenu
 
-- `bash_aliases` — une trentaine d'alias utiles (navigation, git, système, sécurité de base)
-- `bashrc_extra` — prompt personnalisé (affiche la branche git courante et le code de retour
+- `bash_aliases` : une trentaine d'alias utiles (navigation, git, système, sécurité de base)
+- `bashrc_extra` : prompt personnalisé (affiche la branche git courante et le code de retour
   de la dernière commande), options d'historique améliorées
-- `install.sh` — script d'installation : sauvegarde des fichiers existants dans
+- `install.sh` : script d'installation : sauvegarde des fichiers existants dans
   `~/.dotfiles_backup_<date>/` puis crée les liens symboliques
 
 ## Installation

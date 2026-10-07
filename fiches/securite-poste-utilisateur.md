@@ -1,4 +1,4 @@
-# Fiche technique — Sécurité du poste utilisateur
+# Fiche technique : sécurité du poste utilisateur
 
 ## Objectif
 

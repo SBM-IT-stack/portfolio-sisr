@@ -40,7 +40,7 @@ $tasks = $pdo->query('SELECT * FROM tasks ORDER BY
 
         <section class="task-list">
             <?php if (empty($tasks)): ?>
-                <p class="empty-state">Aucune tâche pour l'instant — ajoute la première ci-dessus.</p>
+                <p class="empty-state">Aucune tâche pour l'instant, ajoute la première ci-dessus.</p>
             <?php else: ?>
                 <?php foreach ($tasks as $task): ?>
                     <article class="card task-item status-<?= htmlspecialchars($task['status']) ?>">

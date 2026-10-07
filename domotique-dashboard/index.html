@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Domotique — Dashboard (simulation)</title>
+<title>Domotique - Dashboard (simulation)</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
@@ -163,7 +163,7 @@ input:checked + .slider::before { background: var(--accent); transform: translat
 <div class="wrap">
     <p class="eyebrow">$ domotique --dashboard --mode simulation</p>
     <h1>Maison connectée</h1>
-    <p class="subtitle">Concept de tableau de bord domotique — données simulées, aucun matériel réel connecté</p>
+    <p class="subtitle">Concept de tableau de bord domotique, données simulées, aucun matériel réel connecté</p>
 
     <div class="grid" id="rooms"></div>
 
@@ -173,7 +173,7 @@ input:checked + .slider::before { background: var(--accent); transform: translat
         <div class="bars-labels" id="bars-labels"></div>
     </div>
 
-    <p class="disclaimer">Projet de démonstration — les valeurs de température/humidité/consommation sont générées aléatoirement côté client (aucun backend, aucune donnée réelle).</p>
+    <p class="disclaimer">Projet de démonstration : les valeurs de température/humidité/consommation sont générées aléatoirement côté client (aucun backend, aucune donnée réelle).</p>
 </div>
 
 <script>
@@ -251,7 +251,7 @@ function renderBars() {
         const bar = document.createElement("div");
         bar.className = "bar" + (i === hours.length - 1 ? " now" : "");
         bar.style.height = value + "%";
-        bar.title = `${label} — ${value.toFixed(1)} kWh (simulé)`;
+        bar.title = `${label} : ${value.toFixed(1)} kWh (simulé)`;
         barsContainer.appendChild(bar);
     });
     labelsContainer.innerHTML = `<span>${hours[0]}</span><span>${hours[hours.length - 1]}</span>`;

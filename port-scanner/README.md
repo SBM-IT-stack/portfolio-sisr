@@ -1,7 +1,7 @@
 # port-scanner
 
 Un scanner de ports TCP en ligne de commande, écrit en Python (bibliothèque standard
-uniquement — pas de dépendance externe). Détecte les ports ouverts sur une machine
+uniquement, pas de dépendance externe). Détecte les ports ouverts sur une machine
 et tente d'identifier le service standard associé.
 
 > ⚠️ **Usage éthique uniquement.** N'utilise ce script que sur des machines/réseaux
@@ -37,7 +37,7 @@ python3 port_scanner.py 127.0.0.1 --start 1 --end 1024 --output resultat.json
 
 ## Pourquoi ce projet
 
-Montre une compréhension pratique des sockets TCP et du fonctionnement réseau —
+Montre une compréhension pratique des sockets TCP et du fonctionnement réseau :
 en cohérence avec des bases réseau/sécurité (type Cisco Networking Academy, TryHackMe).
 
 ## Prochaines étapes possibles

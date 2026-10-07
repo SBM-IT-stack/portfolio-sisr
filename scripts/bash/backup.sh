@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# backup.sh — sauvegarde un dossier en .tar.gz horodaté, avec rotation et logs.
+# backup.sh : sauvegarde un dossier en .tar.gz horodaté, avec rotation et logs.
 #
 # Usage : ./backup.sh <source> <destination> [nb_sauvegardes_a_garder]
 #

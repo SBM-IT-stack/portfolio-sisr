@@ -1,6 +1,6 @@
 <?php
 /**
- * db.php — connexion à la base de données (PDO).
+ * db.php : connexion à la base de données (PDO).
  *
  * Par défaut : SQLite (zéro configuration, un simple fichier tasks.db).
  * Pour passer à MySQL, remplace le bloc "SQLite" ci-dessous par le bloc

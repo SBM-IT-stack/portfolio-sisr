@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# install.sh — installe les dotfiles du repo en créant des liens symboliques
+# install.sh : installe les dotfiles du repo en créant des liens symboliques
 # vers le HOME de l'utilisateur, en sauvegardant d'abord ce qui existe déjà.
 
 set -euo pipefail

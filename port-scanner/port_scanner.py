@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-port_scanner.py — scanner de ports TCP simple, à but pédagogique.
+port_scanner.py : scanner de ports TCP simple, à but pédagogique.
 
 Usage éthique uniquement : n'utiliser que sur des machines/réseaux
 t'appartenant ou pour lesquels tu as une autorisation explicite.
@@ -40,7 +40,7 @@ def run_scan(host: str, ports: list[int], timeout: float, max_workers: int = 100
     ip = resolve_host(host)
     open_ports = []
 
-    print(f"Scan de {host} ({ip}) — {len(ports)} port(s) — début {datetime.now():%H:%M:%S}")
+    print(f"Scan de {host} ({ip}), {len(ports)} port(s), début {datetime.now():%H:%M:%S}")
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = {executor.submit(scan_port, ip, p, timeout): p for p in ports}

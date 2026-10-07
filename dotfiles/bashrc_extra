@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# ~/.bashrc_extra — chargé à la fin de ~/.bashrc par install.sh
+# ~/.bashrc_extra : chargé à la fin de ~/.bashrc par install.sh
 # Contient : prompt personnalisé (git-aware, code retour) + options d'historique
 
 # --- Charger les alias ---
