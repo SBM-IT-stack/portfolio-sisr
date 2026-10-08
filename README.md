@@ -45,6 +45,7 @@
 |---|---|---|
 | [`scripts/bash`](scripts/bash) | Sauvegarde avec rotation, vérification réseau, espace disque, mise à jour système | Bash |
 | [`scripts/powershell`](scripts/powershell) | Diagnostic réseau et inventaire système sous Windows | PowerShell |
+| [`scripts/powershell/ad-users-csv`](scripts/powershell/ad-users-csv) | Création de comptes Active Directory en masse depuis un CSV, avec simulation et rapport | PowerShell, AD |
 | [`dotfiles`](dotfiles) | Ma config Linux/terminal (alias, bashrc) avec script d'installation | Bash |
 
 ### Support & procédures
