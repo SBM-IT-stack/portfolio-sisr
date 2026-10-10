@@ -63,6 +63,7 @@
 | [`gestionnaire-taches-php`](gestionnaire-taches-php) | Petite app CRUD de gestion de tâches (SQLite ou MySQL) | PHP, SQL |
 | [`port-scanner`](port-scanner) | Scanner de ports réseau en ligne de commande | Python |
 | [`domotique-dashboard`](domotique-dashboard) | Tableau de bord web de simulation domotique (capteurs, interrupteurs) | HTML/CSS/JS |
+| [`cobol/01-moyenne`](cobol/01-moyenne) | Calcul de moyenne, min, max et mention avec contrôle des saisies | COBOL |
 
 ---
 
