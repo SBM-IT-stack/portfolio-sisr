@@ -69,7 +69,7 @@
 
 ## Utilisation de l'IA
 
-J'utilise Claude Code et d'autres outils d'IA sur ce repo : pour le ranger, faire les commits et les push, et pour m'aider à écrire une partie des projets (code et README). Je relis et je teste ce qui est publié ici, et je dois être capable d'expliquer chaque projet.
+J'utilise Claude Code et d'autres outils d'IA sur ce repo : pour le ranger, faire les commits et les push, et pour m'aider à écrire une partie des projets (README). Je relis et je teste ce qui est publié ici, et je dois être capable d'expliquer chaque projet.
 
 Savoir travailler avec ces outils fait partie de ce que je veux apprendre, au même titre que le reste.
 
